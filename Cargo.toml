@@ -1,0 +1,12 @@
+[package]
+name = "faf-http-date"
+version = "0.1.0"
+authors = ["James Bates <errantmind@protonmail.com>"]
+edition = "2018"
+license = "MIT/Apache-2.0"
+description = "FAST date generation for HTTP Date header (no_std)"
+keywords = ["http", "date", "time", "header", "no_std"]
+categories = ["no_std"]
+repository = "https://github.com/errantmind/faf-http-date"
+homepage = "https://github.com/errantmind/faf-http-date"
+readme = "https://github.com/errantmind/faf-http-date"
