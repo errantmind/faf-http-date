@@ -5,7 +5,7 @@ authors = ["James Bates <errantmind@protonmail.com>"]
 edition = "2018"
 license = "MIT/Apache-2.0"
 description = "FAST date generation for HTTP Date header (no_std)"
-keywords = ["fast", "efficient", "http", "date", "time", "header", "no_std", "no-std"]
+keywords = ["fast", "efficient", "http", "date", "no-std"]
 categories = [
    "no-std",
    "date-and-time",
