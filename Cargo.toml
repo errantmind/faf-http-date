@@ -16,4 +16,4 @@ categories = [
 ]
 repository = "https://github.com/errantmind/faf-http-date"
 homepage = "https://github.com/errantmind/faf-http-date"
-readme = "https://raw.githubusercontent.com/errantmind/faf-http-date/master/README.md"
+readme = "README.md"
